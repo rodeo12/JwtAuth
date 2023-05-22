@@ -1,0 +1,19 @@
+{
+  "name": "jwtauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^16.0.3",
+    "expresss": "^0.0.0",
+    "mongoose": "^7.2.0",
+    "nodemon": "^2.0.22"
+  }
+}
